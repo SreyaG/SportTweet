@@ -1,4 +1,6 @@
 theme: jekyll-theme-midnight
 # Build Settings
+image:
+  background: mirrorlake.JPG
 sass:
   sass_dir: _sass
