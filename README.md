@@ -1,3 +1,6 @@
+<div id="bg">
+  <img src="https://github.com/SreyaG/dataIncubator/blob/master/Slide2.TIF" alt="">
+</div>
 ## Welcome to the cool website
 .fstPage {
     background-image:url("https://github.com/SreyaG/SportTweet/blob/master/mirrorlake.JPG");
