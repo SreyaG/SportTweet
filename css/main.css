@@ -23,18 +23,18 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 150px;
+    font-size: 120x;
     color: #FFFFFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 100px;
+    font-size: 70px;
     color: #FFFFFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: 70px;
+    font-size: 30px;
     color: #FFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
