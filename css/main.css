@@ -33,8 +33,8 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 30px;
+    line-height: 28px;
     color: #FFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -47,7 +47,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 80px;
+    font-size: 30px;
 }
 
 ul.posts li {
@@ -55,7 +55,7 @@ ul.posts li {
 }
 ol.posts { 
     margin: 20px auto 40px; 
-    font-size: 80px;
+    font-size: 30px;
 }
 
 ol.posts li {
