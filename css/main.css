@@ -34,7 +34,7 @@ h3 {
 }
 p {
     font-size: 30px;
-    line-height: 28px;
+    line-height: 1;
     color: #FFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -53,12 +53,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-ol.posts { 
-    margin: 20px auto 40px; 
+ol li {
     font-size: 30px;
-}
-
-ol.posts li {
-    list-style: none;
+    font-style: italic;
+    color:#FFF;
+    margin-top: 5px;
+    line-height: 1;
 }
 
