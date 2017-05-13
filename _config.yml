@@ -1,7 +1,7 @@
 name: tweet-lete
 markdown: kramdown
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 # Build Settings
-image:
-  background: 'SportTweet/mirrorlake.JPG'
+#image:
+#  background: 'SportTweet/mirrorlake.JPG'
 
