@@ -33,8 +33,9 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 50px;
-    color: #FFFFFF;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #FFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
