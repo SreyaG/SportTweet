@@ -27,8 +27,13 @@ h1 {
     color: #FFFFFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h3 {
+    font-size: 90x;
+    color: #FFFFFF;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 p {
-    font-size: 70px;
+    font-size: 50px;
     color: #FFFFFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -41,7 +46,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 50px;
 }
 
 ul.posts li {
