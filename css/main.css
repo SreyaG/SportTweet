@@ -23,38 +23,38 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 150x;
-    color: #FFFFFF;
+    font-size: 150px;
+    color: #FFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3 {
-    font-size: 100x;
+    font-size: 100px;
     color: #FFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 1;
     color: #FFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: 30px;
+    font-size: 20px;
     color: #FFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 30px;
+    font-size: 20px;
 }
 
 ul.posts li {
     list-style: none;
 }
 ol li {
-    font-size: 30px;
+    font-size: 20px;
     font-style: italic;
     color:#FFF;
     margin-top: 5px;
