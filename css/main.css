@@ -14,25 +14,27 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #FFFFFF;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 100px;
-    color: #999;
+    color: #FFFFFF;
     font-family:'Lucida Console', 'Courier New', 'Monospace';
 }
 p {
     font-size: 70px;
     line-height: 4.5em;
-    color: #999;
+    color: #FFFFFF;
     font-family:'Lucida Console', 'Courier New', 'Monospace';
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 30px;
+    color: #FFFFFF;
+    font-family:'Lucida Console', 'Courier New', 'Monospace';
 }
 
 ul.posts { 
