@@ -23,13 +23,13 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 120x;
+    font-size: 150x;
     color: #FFFFFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3 {
-    font-size: 90x;
-    color: #FFFFFF;
+    font-size: 100x;
+    color: #FFF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -46,7 +46,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 50px;
+    font-size: 80px;
 }
 
 ul.posts li {
