@@ -44,8 +44,14 @@ ul.posts li {
 }
 figure { 
     display: block;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    width: 50%;
+    margin-top: .5em;
+    margin-bottom: .5em;
     margin-left: 40px;
     margin-right: 40px;
+}
+figcaption {
+  padding: 0.5em;
+  border: thin silver solid;
+  border-bottom: none;
 }
