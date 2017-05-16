@@ -53,11 +53,11 @@ ul.posts li {
     list-style: none;
 }
 ol li {
-    font-size: 15px;
+    font-size: 20px;
     font-style: italic;
     color:#FFF;
     margin-top: 5px;
-    line-height: 1;
+    
 }
 
 figure { 
