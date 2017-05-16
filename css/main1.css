@@ -28,6 +28,8 @@ p {
     line-height: 1.4em;*/
     font-size: 20px;
     color: #333;
+    text-align: justify;
+    text-justify: auto;
 }
 footer {
     border-top: 1px solid #d5d5d5;
