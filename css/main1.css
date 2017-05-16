@@ -53,8 +53,5 @@ figure {
     border-bottom: none;
 }
 figcaption {
-  padding: 0.5em;
-  border: thin silver solid;
-  border-top: none;
-  
+  padding: 0.5em;  
 }
