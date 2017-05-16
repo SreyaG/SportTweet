@@ -44,14 +44,17 @@ ul.posts li {
 }
 figure { 
     display: block;
-    width: 50%;
+    width: 30%;
     margin-top: .5em;
-    margin-bottom: .5em;
+    /*margin-bottom: .5em;*/
     margin-left: 40px;
     margin-right: 40px;
+    border: thin silver solid;
+    border-bottom: none;
 }
 figcaption {
   padding: 0.5em;
   border: thin silver solid;
-  border-bottom: none;
+  border-top: none;
+  
 }
