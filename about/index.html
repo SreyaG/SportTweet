@@ -6,13 +6,13 @@ title: About
 	<h1>About</h1>
 	<h3> Data </h3>
 	<p> I used the tweepy Python library to gather twitter data. Tweepy provides access to the well documented Twitter API. Tweets are strutured using JSON, which is easily read using pandas and stored in dataframes.   
-	    I used a corpus of the 10 highest [2016] paid male athletes, and female athletes, that is a total of 20 athletes, to filter streamed twitter data. For my initial results, submitted on May 1, where after
+	    I used a corpus of the 14 alive and popular male athletes, and female athletes, that is a total of 20 athletes, to filter streamed twitter data. For my initial results, submitted on May 1, where after
 		running my script for around 8 hours provided <b>~560 MB </b> of data which I used in this preliminary study. At this point I have collected around <b>2.02 GB </b>data, collected over 3 days. 
 		The data-set has 167,322 unique entries, collected from 90 countries. <br></p>	
 		
 	<h3> Sentiment Mining </h3>
 	<p>I performed sentiment analysis and associated each entry with a positive, negative or neutral sentiment. The tweet <i>text</i> is analyzed a given a polarity from -1 to 1, 
-	   with anything above 0 positive, below 0 negative, and everything else is neutral. A <i> Naive Bayes </i> analysis is used for classification on an <i>n-gram model</i> of the text. 
+	   with anything above 0 positive, below 0 negative, and everything else is neutral. A <i> Naive Bayes </i>[1] analysis is used for classification on an <i>n-gram model</i>[2] of the text. 
 	   I used the TextBlob, which  is a Python library for processing textual data utilizing the nltk library in Python. The classification is reported to have an accuracy of 0.8. Some examples of the classification:  <br> </p>
 	   <ol>
 		<li> <b>Positive: </b> 11 years ago today, Kobe Bryant absolutely destroyed Steve Nash. </li> 
@@ -22,5 +22,11 @@ title: About
 	   
 	
 	<h3> Data Analysis </h3>
-     <p>I used pandas to convert the data into dataframes allowing easier query, sort and statistical operations. I used matplotlib for plotting, scipy and numpy for data analysis. </p>
+    <p>I used pandas to convert the data into dataframes allowing easier query, sort and statistical operations. I used matplotlib for plotting, scipy and numpy for data analysis. </p>
+	<br>
+	<h3> Citations </h3>
+	<ol>
+		<li> McCallum, Andrew, and Kamal Nigam. "A comparison of event models for naive bayes text classification." AAAI-98 workshop on learning for text categorization. Vol. 752. 1998. </li> 
+		<li> Cavnar, William B., and John M. Trenkle. "N-gram-based text categorization." Ann Arbor MI 48113.2 (1994): 161-175.</li> 
+	</ol>
 </div><!-- /.blurb -->
