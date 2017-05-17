@@ -60,11 +60,18 @@ font-size: 20px;
 }
 div.figure {
 /*margin-left: 10px;
-margin-right: 10px;*/
+margin-right: 10px;
 display: block;
 width: 30%;
 height: 30%;
 min-width: 10px;
-min-height: 10px;
+min-height: 10px;*/
+    border: 2px solid black;
+	background: #cae9b8;
+	margin: 0;
+	width: -moz-min-content;
+	width: -webkit-min-content;
+	width: min-content;
 }
+
 
