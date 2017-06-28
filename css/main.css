@@ -95,7 +95,7 @@ color: #FFFFFF;
 font-weight: bold;
 display: block;
 width: 150px;
-float: left;
-font-size: 16px;
+float: center;
+font-size: 28px;
 }
 label:after { content: ": " }
