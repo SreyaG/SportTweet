@@ -85,6 +85,16 @@ input[type=text] {
     background-color: white;
     font-size: 16px;
 }
+input[type=submit] {
+    padding: 0;
+    height: 30px;
+    left: 0;
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+}
 
 label {
 color: #FFFFFF;
