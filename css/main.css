@@ -86,10 +86,7 @@ input[type=text] {
     background-color: white;
     font-size: 16px;
 }
-.advancedSearchTextbox {
-    width: 526px;
-    margin-right: -4px;
-}
+
 label {
 color: #FFFFFF;
 font-weight: bold;
