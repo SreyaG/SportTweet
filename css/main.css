@@ -91,10 +91,11 @@ input[type=text] {
     margin-right: -4px;
 }
 label {
-color: #B4886B;
+color: #FFFFFF;
 font-weight: bold;
 display: block;
 width: 150px;
 float: left;
+font-size: 16px;
 }
 label:after { content: ": " }
