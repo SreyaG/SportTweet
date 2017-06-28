@@ -78,7 +78,6 @@ font-size: 20px;
 input[type=text] {
     padding: 0;
     height: 30px;
-    position: relative;
     left: 0;
     outline: none;
     border: 1px solid #cdcdcd;
