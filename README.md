@@ -1,38 +1,30 @@
 
-## Welcome to the cool website
-
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SreyaG/SportTweet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+layout: default
+title: Twitter Athlete
+---
+<div class="blurb">
+	<h1><b>Tweet-lete : Athlete Recomendation</b></h1>
+	<div style="text-align:center">
+	<form action="/action_page.php">
+  	<label for="country"> Country</label> <input type="text" id="country" name="country" placeholder="United States of America" ><br>
+  	<br> <br>
+        <input type="submit" value="Submit"  font-size=16px>
+	</form>
+	</div>
+	<!--<h3>Mining Sentiment from Twitter Data to Observe the Role of Gender in Opinions about Athletes</h3>
+	<p> Social media has been a boon to data analysts, allowing data scientists to directly collect data from individuals. 
+	Twitter has been leading at the forefront with more than 500 million tweets a day for analysis, offering opinions on politics, entertainment,
+	sports, and fairly everything under the sun. </p>
+	<p>For my project I mined Twitter data to observe the role of gender in opinions about sport personalities.
+	I analyzed tweets to indentify sentiment associated tweets. I further classified the sentiment tagged tweets 
+	into categories based on gender i.e. male v/s female athletes. 	I also used region to understand sentiment based on 
+	gender in the regional context of this data.
+		This study has a dual impact:</p>
+		<ol>
+		<li> Allows brands to appropriately chose brand-ambassadors 
+		     for regions where impact of a certain sports personality is higher; and schedule sporting events. </li> 
+		<li> Improved understanding of gender bias in sport and possible remedial actions.</li>
+		</ol>-->
+	
+</div><!-- /.blurb -->
